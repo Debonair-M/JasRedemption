@@ -1,7 +1,7 @@
 body{ background-color: #707271;
 background-image: url("https://replit.com/@Buckweiser/Grizzle-Vs-Jazz#dc.png");
  font-family: helvetica;
- width: 525px;
+ width: 600px;
  height: 400px;}
 h1{ background-color: #000000;
  font-family: impact;
@@ -19,14 +19,14 @@ h2{ background-color: #F5B112;
   top: 300px;
   background:#ffffff;
   height: 400px;
-  width: 525px;
+  width: 600px;
   border-bottom: solid;
   border-left: solid;
   border-right: solid;}
 p{font-family:Monaco; 
  font-size: 20px;
  padding : 20px;}
-img{ size: 20px;
+img{ size: 15px;
  border: solid; }
 a:link {color: #12173F;
  text-decoration: none;}
