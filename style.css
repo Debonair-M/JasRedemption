@@ -1,0 +1,37 @@
+body{ background-color: #707271;
+background-image: url("https://replit.com/@Buckweiser/Grizzle-Vs-Jazz#dc.png");
+ font-family: helvetica;
+ width: 525px;
+ height: 400px;}
+h1{ background-color: #000000;
+ font-family: impact;
+ padding: 2px;
+ margin-bottom:0px;
+ color:#5D76A9;
+ font-size:40px;}
+h2{ background-color: #F5B112;
+ font-family: impact;
+ text-align: right;
+ padding: 2px;
+ margin-top: 0px;}
+.maincon{
+  position:absolute;
+  top: 300px;
+  background:#ffffff;
+  height: 400px;
+  width: 525px;
+  border-bottom: solid;
+  border-left: solid;
+  border-right: solid;}
+p{font-family:Monaco; 
+ font-size: 20px;
+ padding : 20px;}
+img{ size: 20px;
+ border: solid; }
+a:link {color: #12173F;
+ text-decoration: none;}
+a:visited { color: #12173F;
+ text-decoration: none;}
+a:hover {color: #f5b112 ;
+ text-decoration: none;}
+h3{ text-align:center; font-family:impact;}
